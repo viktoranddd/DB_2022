@@ -1,0 +1,104 @@
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.csprojAssemblyReference.cache
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form1.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Properties.Resources.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.GenerateResource.cache
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CoreCompileInputs.cache
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe.config
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\bin\Debug\KRv1.pdb
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CopyComplete
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.exe
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.pdb
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form2.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_MainForm.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Employee_MainForm.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.User_MainForm.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_EditDataSelectionForm.resources
+D:\МГТУ им. Н.Э.Баумана\2 курс, 4 семестр\Базы данных\KRv1\KRv1\KRv1\obj\Debug\KRv1.EditStreetForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe.config
+G:\KRv2\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe
+G:\KRv2\KRv1\KRv1\KRv1\bin\Debug\KRv1.pdb
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.csprojAssemblyReference.cache
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_EditDataSelectionForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_MainForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.EditStreetForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Employee_MainForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form1.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form2.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.Properties.Resources.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.User_MainForm.resources
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.GenerateResource.cache
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CopyComplete
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.exe
+G:\KRv2\KRv1\KRv1\KRv1\obj\Debug\KRv1.pdb
+F:\KRv3\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe.config
+F:\KRv3\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe
+F:\KRv3\KRv1\KRv1\KRv1\bin\Debug\KRv1.pdb
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.csprojAssemblyReference.cache
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_EditDataSelectionForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_MainForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.EditStreetForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Employee_MainForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form1.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form2.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Properties.Resources.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.User_MainForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.GenerateResource.cache
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CoreCompileInputs.cache
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CopyComplete
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.exe
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.pdb
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.HouseEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.ApartEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.PayerEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.PTypeEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.PaymentEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.PInfoEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.ApartamentPayerEditForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Kvit.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.AdminEmpl_RequestSelectionForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.StreetRequestForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.HouseRequestForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.AdminEmpl_ApartRequestForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.PayerRequestForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.User_ApartRequestForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.AdminEmpl_ReportSelectionForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.StreetReportForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.HouseReportForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.AdminEmpl_ApartReportForm.resources
+F:\KRv3\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.User_ApartReportForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe.config
+G:\KRv4\KRv1\KRv1\KRv1\bin\Debug\KRv1.exe
+G:\KRv4\KRv1\KRv1\KRv1\bin\Debug\KRv1.pdb
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.csprojAssemblyReference.cache
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.AdminEmpl_ApartRequestForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.AdminEmpl_RequestSelectionForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.ApartamentPayerEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Kvit.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.PInfoEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_EditDataSelectionForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Admin_MainForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.ApartEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.EditStreetForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Employee_MainForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form1.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Form2.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.HouseEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.PayerEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.PaymentEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Properties.Resources.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.PTypeEditForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.User_MainForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.HouseRequestForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.PayerRequestForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.StreetRequestForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Осуществление_запросов.User_ApartRequestForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.AdminEmpl_ApartReportForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.AdminEmpl_ReportSelectionForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.HouseReportForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.StreetReportForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.Формирование_отчетов.User_ApartReportForm.resources
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.GenerateResource.cache
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.csproj.CopyComplete
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.exe
+G:\KRv4\KRv1\KRv1\KRv1\obj\Debug\KRv1.pdb
